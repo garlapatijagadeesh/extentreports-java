@@ -12,9 +12,9 @@
 	<description>ExtentReports library</description>
 
 	<scm>
-		<connection>scm:git:https://github.com/extent-framework/extentreports-java.git</connection>
-		<developerConnection>scm:git:https://github.com/extent-framework/extentreports-java.git</developerConnection>
-		<url>https://github.com/extent-framework/extentreports-java</url>
+		<connection>scm:git:https://github.com/garlapatijagadeesh/extentreports-java.git</connection>
+		<developerConnection>scm:git:https://github.com/garlapatijagadeesh/extentreports-java.git</developerConnection>
+		<url>https://github.com/garlapatijagadeesh/extent-framework/extentreports-java</url>
 	</scm>
 
 	<licenses>
